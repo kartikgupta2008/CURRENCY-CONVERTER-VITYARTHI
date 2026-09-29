@@ -1,0 +1,2 @@
+# No external packages are required to run the Currency Converter System.
+# Python 3.9 or newer is recommended.
