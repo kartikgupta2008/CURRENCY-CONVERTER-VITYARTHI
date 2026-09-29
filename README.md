@@ -213,7 +213,3 @@ If I continue this project, I would like to:
 ## 15. What I Learned
 
 Through this project I practiced functions, conditions, loops, dictionaries, modules, file handling, CRUD operations, validation, testing, documentation and GitHub organization.
-
-## 16. GitHub Upload
-
-The repository can be uploaded directly to GitHub. The important files for evaluation are the Python source files, `README.md`, `statement.md`, the `data` folder, the `docs` folder and the project report.
